@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://about.libalababy.com/",
   "designSourceSlug": "stripe",
-  "generatedAt": "2026-08-13T02:59:07.030Z",
+  "generatedAt": "2026-08-13T15:05:19.789Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-libalababy-com",
   "templateSlug": "personal-brand-gradient-finance",
   "templateVersion": "0.1.0"
